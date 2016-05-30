@@ -18,4 +18,4 @@ print "hexadecimal is %s" % ips.strHex()
 print "binary is %s" % ips.strBin()
 print "net type is %s" % ips.iptype()
 
-#create a new branch is quick AND simple.
+#create a new branch is quick and simple.
