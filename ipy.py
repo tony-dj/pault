@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#_*_ encoding:utf-8 _*_
 from IPy import IP
 
 ip_s = raw_input('\033[32mPlease input IP or net-range:\033[m')
